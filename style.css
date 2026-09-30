@@ -42,3 +42,25 @@ body {
   background-color: #f1f1f1;
   padding: 10px;
 }
+
+/* Targets the main header */
+h1 {
+  font-family: "Space Mono", monospace;
+  font-size: 46px;
+  font-weight: bold;
+}
+
+/* Targets the secondary header */
+h2 {
+  font-family: "Space Mono";
+  font-size: 32px;
+  font-weight: normal;
+}
+
+
+/* Targets all paragraphs */
+p {
+  font-family:'Muli', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
